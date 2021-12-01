@@ -7,4 +7,4 @@ This repo contains materials for a lecture presented on 2.12.2021 for VŠE in Pr
 manifest
 ++++++++
 
-- intro: https://chainkeepers.github.io/20211202_dive_into_defi/intro
+- intro: https://chainkeepers.github.io/20211202_dive_into_defi/intro/index.html
